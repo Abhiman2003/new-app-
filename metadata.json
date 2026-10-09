@@ -1,0 +1,6 @@
+{
+  "name": "Everyday Tracker",
+  "description": "Daily map travel tracker to monitor everyday journeys, routes, distance, active time, and travel analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
